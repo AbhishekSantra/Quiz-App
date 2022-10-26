@@ -1,0 +1,14 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 60vh;
+}
+.result-title,.cong{
+    font-size: 3vw;
+    font-family: "Poppin", sans-serif;
+    text-transform: capitalize;
+    
+}
